@@ -6,9 +6,9 @@ import java.sql.DriverManager;
 
 
 public class Conexion {
-    public static final String URL ="jdbc:mysql://localhost:3306/gauss?zeroDateTimeBehavior=CONVERT_TO_NULL&test&useSSL=false";
-    public static final String USUARIO ="root";
-    public static final String CLAVE ="admin5506";     
+    public static final String URL = "jdbc:mysql://localhost:3306/gauss?zeroDateTimeBehavior=CONVERT_TO_NULL&test&useSSL=false";
+    public static final String USUARIO = "root";
+    public static final String CLAVE = "1751929132";    
     
     public Connection getConnection()
     {
