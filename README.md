@@ -1,1 +1,7 @@
-MVC para operaciones CRUD
+#### Integrantes
+
+**-Johao Flores**
+
+**-Brayam Guanoliquin**
+
+**-William Mosquera**
